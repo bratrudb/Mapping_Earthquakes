@@ -1,2 +1,2 @@
 # Mapping_Earthquakes
-Mapping earthquake data using javascript
+Mapping all earthquakes over the previous seven days, the world's fault lines, and major earthquakes using Javascript.
